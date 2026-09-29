@@ -1,0 +1,16 @@
+OMAR MOHAMED ALY
+Full-Stack Development Intern
+
+PROFILE
+Full-stack developer working with React, Node.js, Express, and SQLite. I focus on responsive interfaces, practical API design, secure authentication, and code that can be tested and explained.
+
+PROJECTS
+TaskFlow - Authenticated task management with CRUD operations, filters, and user-scoped data
+Northstar Store - Product catalogue, persistent cart, Stripe test checkout, and transactional inventory updates
+
+SKILLS
+HTML5, CSS, JavaScript, React, Node.js, Express, SQLite, REST APIs, Git, automated testing
+
+LINKS
+GitHub: https://github.com/Frehshi/Progree-Full-stack-internship/
+LinkedIn post: https://lnkd.in/p/ezSQn6P2
